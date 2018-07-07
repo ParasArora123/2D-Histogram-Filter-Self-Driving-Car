@@ -8,4 +8,4 @@ $ g++ -std=c++11 tests.cpp
 $ ./a.out
 ```
 ## Optimization
-C++ is known for its speed -- and thus should be optimized to work as fast as possible. Currently I am working on optimizing the histogram to run much faster and function a whole lot better. 
+C++ is known for its speed -- and thus should be optimized to work as fast as possible. Currently I am working through optimizing the histogram to run much faster. 
